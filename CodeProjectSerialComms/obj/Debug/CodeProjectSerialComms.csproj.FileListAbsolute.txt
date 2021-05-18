@@ -25,3 +25,12 @@ C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\ob
 C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csproj.CoreCompileInputs.cache
 C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.exe
 C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.pdb
+F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.exe
+F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.pdb
+F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csprojAssemblyReference.cache
+F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Form1.resources
+F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Properties.Resources.resources
+F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csproj.GenerateResource.cache
+F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csproj.CoreCompileInputs.cache
+F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.exe
+F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.pdb
