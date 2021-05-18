@@ -1,0 +1,8 @@
+C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\bin\Release\CodeProjectSerialComms.exe
+C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\bin\Release\CodeProjectSerialComms.pdb
+C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Release\CodeProjectSerialComms.Form1.resources
+C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Release\CodeProjectSerialComms.Properties.Resources.resources
+C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Release\CodeProjectSerialComms.csproj.GenerateResource.cache
+C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Release\CodeProjectSerialComms.csproj.CoreCompileInputs.cache
+C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Release\CodeProjectSerialComms.exe
+C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Release\CodeProjectSerialComms.pdb
