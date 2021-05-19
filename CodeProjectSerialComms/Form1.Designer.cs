@@ -53,6 +53,8 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.lblLogger = new System.Windows.Forms.Label();
+            this.txtSendData = new System.Windows.Forms.TextBox();
+            this.btnTimerStop = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnGetSerialPorts
@@ -129,7 +131,6 @@
             this.lblBreakStatus.Size = new System.Drawing.Size(35, 13);
             this.lblBreakStatus.TabIndex = 8;
             this.lblBreakStatus.Text = "Break";
-            this.lblBreakStatus.Visible = false;
             // 
             // lblCTSStatus
             // 
@@ -139,7 +140,6 @@
             this.lblCTSStatus.Size = new System.Drawing.Size(28, 13);
             this.lblCTSStatus.TabIndex = 9;
             this.lblCTSStatus.Text = "CTS";
-            this.lblCTSStatus.Visible = false;
             // 
             // lblDSRStatus
             // 
@@ -149,7 +149,6 @@
             this.lblDSRStatus.Size = new System.Drawing.Size(30, 13);
             this.lblDSRStatus.TabIndex = 10;
             this.lblDSRStatus.Text = "DSR";
-            this.lblDSRStatus.Visible = false;
             // 
             // lblRIStatus
             // 
@@ -159,11 +158,10 @@
             this.lblRIStatus.Size = new System.Drawing.Size(18, 13);
             this.lblRIStatus.TabIndex = 11;
             this.lblRIStatus.Text = "RI";
-            this.lblRIStatus.Visible = false;
             // 
             // btnTest
             // 
-            this.btnTest.Location = new System.Drawing.Point(12, 135);
+            this.btnTest.Location = new System.Drawing.Point(12, 162);
             this.btnTest.Name = "btnTest";
             this.btnTest.Size = new System.Drawing.Size(75, 23);
             this.btnTest.TabIndex = 12;
@@ -203,7 +201,7 @@
             // 
             // btnHyperTerm
             // 
-            this.btnHyperTerm.Location = new System.Drawing.Point(287, 237);
+            this.btnHyperTerm.Location = new System.Drawing.Point(255, 181);
             this.btnHyperTerm.Name = "btnHyperTerm";
             this.btnHyperTerm.Size = new System.Drawing.Size(75, 23);
             this.btnHyperTerm.TabIndex = 16;
@@ -213,11 +211,11 @@
             // 
             // txtCommand
             // 
-            this.txtCommand.Location = new System.Drawing.Point(12, 240);
+            this.txtCommand.Location = new System.Drawing.Point(12, 211);
             this.txtCommand.Name = "txtCommand";
-            this.txtCommand.Size = new System.Drawing.Size(257, 20);
+            this.txtCommand.Size = new System.Drawing.Size(350, 20);
             this.txtCommand.TabIndex = 17;
-            this.txtCommand.Text = "5600000000002000040000000000010";
+            this.txtCommand.Text = "02003536303030303030303030013032303030301C343000123030303030303030303031301C0324";
             // 
             // label1
             // 
@@ -277,16 +275,35 @@
             // 
             this.lblLogger.AutoSize = true;
             this.lblLogger.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.lblLogger.Location = new System.Drawing.Point(20, 217);
+            this.lblLogger.Location = new System.Drawing.Point(19, 7);
             this.lblLogger.Name = "lblLogger";
             this.lblLogger.Size = new System.Drawing.Size(0, 13);
             this.lblLogger.TabIndex = 24;
+            // 
+            // txtSendData
+            // 
+            this.txtSendData.Location = new System.Drawing.Point(12, 237);
+            this.txtSendData.Name = "txtSendData";
+            this.txtSendData.Size = new System.Drawing.Size(350, 20);
+            this.txtSendData.TabIndex = 25;
+            // 
+            // btnTimerStop
+            // 
+            this.btnTimerStop.Location = new System.Drawing.Point(12, 114);
+            this.btnTimerStop.Name = "btnTimerStop";
+            this.btnTimerStop.Size = new System.Drawing.Size(75, 23);
+            this.btnTimerStop.TabIndex = 26;
+            this.btnTimerStop.Text = "TimerStop";
+            this.btnTimerStop.UseVisualStyleBackColor = true;
+            this.btnTimerStop.Click += new System.EventHandler(this.btnTimerStop_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(374, 408);
+            this.Controls.Add(this.btnTimerStop);
+            this.Controls.Add(this.txtSendData);
             this.Controls.Add(this.lblLogger);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -346,6 +363,8 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         public System.Windows.Forms.Label lblLogger;
+        private System.Windows.Forms.TextBox txtSendData;
+        private System.Windows.Forms.Button btnTimerStop;
     }
 }
 
