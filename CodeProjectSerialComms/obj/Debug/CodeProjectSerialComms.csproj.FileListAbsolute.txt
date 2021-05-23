@@ -1,32 +1,6 @@
-C:\Users\glennp\Dropbox\CodeProjectSerialComms\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.exe
-C:\Users\glennp\Dropbox\CodeProjectSerialComms\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.pdb
-C:\Users\glennp\Dropbox\CodeProjectSerialComms\CodeProjectSerialComms\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\glennp\Dropbox\CodeProjectSerialComms\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Form1.resources
-C:\Users\glennp\Dropbox\CodeProjectSerialComms\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Properties.Resources.resources
-C:\Users\glennp\Dropbox\CodeProjectSerialComms\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csproj.GenerateResource.Cache
-C:\Users\glennp\Dropbox\CodeProjectSerialComms\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.exe
-C:\Users\glennp\Dropbox\CodeProjectSerialComms\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.pdb
-C:\Users\glennp\Desktop\SerialCommsArticle_Tortoise\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.exe
-C:\Users\glennp\Desktop\SerialCommsArticle_Tortoise\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.pdb
-C:\Users\glennp\Desktop\SerialCommsArticle_Tortoise\Demo Code\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.exe
-C:\Users\glennp\Desktop\SerialCommsArticle_Tortoise\Demo Code\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.pdb
-C:\Users\glennp\Desktop\SerialCommsArticle_Tortoise\Demo Code\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.exe
-C:\Users\glennp\Desktop\SerialCommsArticle_Tortoise\Demo Code\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.pdb
-C:\Users\glennp\Desktop\SerialCommsArticle_Tortoise\Demo Code\CodeProjectSerialComms\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\glennp\Desktop\SerialCommsArticle_Tortoise\Demo Code\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Form1.resources
-C:\Users\glennp\Desktop\SerialCommsArticle_Tortoise\Demo Code\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Properties.Resources.resources
-C:\Users\glennp\Desktop\SerialCommsArticle_Tortoise\Demo Code\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csproj.GenerateResource.Cache
-C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.exe
-C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.pdb
-C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csprojAssemblyReference.cache
-C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Form1.resources
-C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Properties.Resources.resources
-C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csproj.GenerateResource.cache
-C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csproj.CoreCompileInputs.cache
-C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.exe
-C:\Users\810192\Downloads\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.pdb
 F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.exe
 F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.pdb
+F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csprojAssemblyReference.cache
 F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Form1.resources
 F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Properties.Resources.resources
 F:\810192\DEVELOPMENT\CodeWorks\CodeProjectSerialComms-noexe\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.csproj.GenerateResource.cache

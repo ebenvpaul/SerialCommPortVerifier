@@ -69,9 +69,9 @@
             // 
             // rtbIncoming
             // 
-            this.rtbIncoming.Location = new System.Drawing.Point(12, 304);
+            this.rtbIncoming.Location = new System.Drawing.Point(12, 476);
             this.rtbIncoming.Name = "rtbIncoming";
-            this.rtbIncoming.Size = new System.Drawing.Size(350, 96);
+            this.rtbIncoming.Size = new System.Drawing.Size(350, 214);
             this.rtbIncoming.TabIndex = 1;
             this.rtbIncoming.Text = "";
             // 
@@ -167,7 +167,6 @@
             this.btnTest.TabIndex = 12;
             this.btnTest.Text = "Test";
             this.btnTest.UseVisualStyleBackColor = true;
-            this.btnTest.Visible = false;
             this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
             // 
             // btnPortState
@@ -192,9 +191,9 @@
             // 
             // rtbOutgoing
             // 
-            this.rtbOutgoing.Location = new System.Drawing.Point(12, 267);
+            this.rtbOutgoing.Location = new System.Drawing.Point(12, 268);
             this.rtbOutgoing.Name = "rtbOutgoing";
-            this.rtbOutgoing.Size = new System.Drawing.Size(350, 31);
+            this.rtbOutgoing.Size = new System.Drawing.Size(350, 202);
             this.rtbOutgoing.TabIndex = 15;
             this.rtbOutgoing.Text = "";
             this.rtbOutgoing.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.rtbOutgoing_KeyPress);
@@ -216,6 +215,7 @@
             this.txtCommand.Size = new System.Drawing.Size(350, 20);
             this.txtCommand.TabIndex = 17;
             this.txtCommand.Text = "02003536303030303030303030013032303030301C343000123030303030303030303031301C0324";
+           
             // 
             // label1
             // 
@@ -301,7 +301,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(374, 408);
+            this.ClientSize = new System.Drawing.Size(374, 724);
             this.Controls.Add(this.btnTimerStop);
             this.Controls.Add(this.txtSendData);
             this.Controls.Add(this.lblLogger);
